@@ -1,23 +1,15 @@
 {
     "videoId": "wc22small_SPLASH",
-    "width": 1024,
-    "height": 576,
-    "fps": 25,
-    "totalFrames": 126,
-    "duration": 5.04,
-    "frameByteSize": 2359296,
+    "width": 640,
+    "height": 360,
+    "fps": 12,
+    "totalFrames": 61,
+    "duration": 5.083333333333333,
+    "frameByteSize": 231424,
+    "totalSize": 14116864,
     "parts": [
-        "video_part_001.bin",
-        "video_part_002.bin",
-        "video_part_003.bin",
-        "video_part_004.bin",
-        "video_part_005.bin",
-        "video_part_006.bin",
-        "video_part_007.bin",
-        "video_part_008.bin",
-        "video_part_009.bin",
-        "video_part_010.bin",
-        "video_part_011.bin",
-        "video_part_012.bin"
-    ]
+        "chunk_001.bin",
+        "chunk_002.bin"
+    ],
+    "compressed": true
 }
