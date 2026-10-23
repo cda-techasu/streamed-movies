@@ -1,12 +1,12 @@
 {
     "videoId": "wc22small_SPLASH_high",
-    "width": 1024,
-    "height": 576,
+    "width": 1013,
+    "height": 570,
     "fps": 25,
     "totalFrames": 126,
     "duration": 5.04,
-    "frameByteSize": 590848,
-    "totalSize": 74446848,
+    "frameByteSize": 578434,
+    "totalSize": 72882684,
     "parts": [
         "chunk_001.bin",
         "chunk_002.bin",
