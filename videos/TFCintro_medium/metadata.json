@@ -1,0 +1,25 @@
+{
+    "videoId": "TFCintro_medium",
+    "width": 853,
+    "height": 480,
+    "fps": 24,
+    "totalFrames": 240,
+    "duration": 10.0,
+    "frameByteSize": 410464,
+    "totalSize": 98511360,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin",
+        "chunk_003.bin",
+        "chunk_004.bin",
+        "chunk_005.bin",
+        "chunk_006.bin",
+        "chunk_007.bin",
+        "chunk_008.bin",
+        "chunk_009.bin",
+        "chunk_010.bin",
+        "chunk_011.bin",
+        "chunk_012.bin"
+    ],
+    "compressed": true
+}

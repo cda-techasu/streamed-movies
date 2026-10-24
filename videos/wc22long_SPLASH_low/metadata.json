@@ -1,0 +1,18 @@
+{
+    "videoId": "wc22long_SPLASH_low",
+    "width": 640,
+    "height": 360,
+    "fps": 12,
+    "totalFrames": 181,
+    "duration": 15.083333333333334,
+    "frameByteSize": 231424,
+    "totalSize": 41887744,
+    "parts": [
+        "chunk_001.bin",
+        "chunk_002.bin",
+        "chunk_003.bin",
+        "chunk_004.bin",
+        "chunk_005.bin"
+    ],
+    "compressed": true
+}
